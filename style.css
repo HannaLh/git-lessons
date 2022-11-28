@@ -1,0 +1,15 @@
+.solid {
+    display:block;
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+}
+
+.solid-inner {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: calc( 50vh - 25px );
+    width: 50px;
+    height: 50px;
+    background-color: rgb(86, 117, 107);
+}
